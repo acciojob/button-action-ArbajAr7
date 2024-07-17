@@ -1,1 +1,24 @@
 /* Your CSS code here. */
+.hide {
+    display: none;
+  }
+  
+  .show {
+    display: block;
+  }
+  
+  #main {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #click {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #para {
+    margin-top: 20px;
+    font-size: 18px;
+  }
